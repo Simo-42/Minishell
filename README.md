@@ -39,8 +39,9 @@
 
 Utilisez le fichier Makefile fourni pour compiler le projet. Les fichiers sources sont *.c et les fichiers d'en-tête sont *.h.
 make
+make leak
 ./minishell
-## Auteurs
+env -i ./minishell
 
-- [mhajji-b fd-arco]
-```bash
+
+
