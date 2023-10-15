@@ -6,7 +6,7 @@
 #    By: mhajji-b <mhajji-b@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/03/08 15:43:01 by fililafrapp       #+#    #+#              #
-#    Updated: 2023/08/29 15:05:15 by mhajji-b         ###   ########.fr        #
+#    Updated: 2023/10/15 11:16:50 by mhajji-b         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -26,7 +26,7 @@ CC = cc
 RM = rm -f
 CFLAGS = -g -g3 -Wall -Wextra -Werror
 
-NAME = Minishell
+NAME = minishell
 
 all : $(NAME)
 
