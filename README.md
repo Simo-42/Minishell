@@ -1,7 +1,7 @@
 # <span style="color:blue">Minishell</span>
 ![Demo Cub3d](assets/Minishell.gif)
 <span style="color:blue">Minishell</span> est un interpréteur de commandes Unix minimal écrit en C.
-<span style="color:blue">Le projet a été réalisé en collaboration avec FD-Arco.</span>.
+<span style="color:blue">Le projet a été réalisé en collaboration avec FD-Arco</span>.
 
 ## <span style="color:green">Fonctionnalités</span>
 
